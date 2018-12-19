@@ -1,4 +1,4 @@
-Code,Occupation_Name,Employment_emploi_2016,Employment_Growth_croissance_emploi,Retirements_retraites,Other_Replacement_autre_remplacement,Total_Job_Openings_Perspective_d'emploi,School_Leavers_Sortants_scolaires,Immigration,Other_Seekers_autres_chercheurs,Job_Seekers_Chercheurs_emploi,Recent_Labour_Market_Conditions,Future_Labour_Market_Conditions
+Code,Occupation_Name,Employment,Employment_Growth,Retirements,Other_Replacement,Total_Job_Openings,School_Leavers,Immigration,Other_Seekers,Job_Seekers,Recent_Labour_Market_Conditions,Future_Labour_Market_Conditions
 N0000,All Occupations,18081600,1637200,3895400,817100,6349700,4870200,1432600,15400,6318100,N/A,N/A
 N0010,Legislators and senior management,51000,-1300,22100,3100,24000,1300,9700,12300,23400,BALANCE,Balance
 N0111,Financial managers,58200,4900,20200,2800,27800,3000,4800,18600,26500,BALANCE,Balance
